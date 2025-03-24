@@ -7,3 +7,5 @@ Shamol essa shamoldan
 Daryo toshsa daryodan
 Yomg‘ir yog‘sa yomg‘irlardan
 Rashk qilaman, rashk qilaman-da
+
+second feature commit
